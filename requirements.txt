@@ -1,21 +1,15 @@
-
-
-
 # used in text summarization
 validators
-
 youtube_transcript_api
-
 unstructured
 pytube
 wikipedia
 numexpr
 
-
 ### ISRO Chatbot
 beautifulsoup4
 
-#      Libraries Used
+# Libraries Used
 
 # Scraping & Parsing:
 requests
