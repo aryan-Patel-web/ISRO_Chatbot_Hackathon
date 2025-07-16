@@ -12,10 +12,10 @@ wikipedia
 numexpr
 
 
-###############  ISRO Chatbot
+### ISRO Chatbot
 beautifulsoup4
 
-# Libraries Used
+#      Libraries Used
 
 # Scraping & Parsing:
 requests
@@ -44,14 +44,12 @@ huggingface
 streamlit
 fastapi
 
-
 # Database:
  
 langchain 
 langchain-groq 
 groq 
 cassio
-
 
 # Extra Features:
 # langchain.memory
