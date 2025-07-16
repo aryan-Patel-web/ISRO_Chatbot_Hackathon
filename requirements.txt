@@ -1,0 +1,60 @@
+
+
+
+# used in text summarization
+validators
+
+youtube_transcript_api
+
+unstructured
+pytube
+wikipedia
+numexpr
+
+
+###############  ISRO Chatbot
+beautifulsoup4
+
+# Libraries Used
+
+# Scraping & Parsing:
+requests
+# BeautifulSoup
+# urllib.parse
+
+PDF   # Extraction:
+PyMuPDF  # (fitz)
+
+# Images:
+requests
+Pillow  # (for thumbnails)
+
+# Vector Store:
+# AstraDB
+cassio
+langchain
+
+# LLM / Embeddings:
+langchain
+openai
+groq
+huggingface
+
+# UI / Frontend:
+streamlit
+fastapi
+
+
+# Database:
+ 
+langchain 
+langchain-groq 
+groq 
+cassio
+
+
+# Extra Features:
+langchain.memory
+langdetect
+transformers
+emoji
