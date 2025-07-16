@@ -54,7 +54,7 @@ cassio
 
 
 # Extra Features:
-langchain.memory
+# langchain.memory
 langdetect
 transformers
 emoji
