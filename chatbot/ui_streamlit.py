@@ -4,7 +4,7 @@ import streamlit as st
 from chatbot.rag_chain import build_rag_chain
 
 st.set_page_config(page_title="ISRO Chatbot")
-st.title("🚀 ISRO Chatbot (Powered by Gemma 2 9B IT via Groq)")
+st.title("🚀 ISRO Chatbot (Powered by Gemma 2 9B IT LLM via Groq)")
 
 rag_chain = build_rag_chain()
 
@@ -19,4 +19,4 @@ if query:
 
 for q, a in st.session_state.history:
     st.write(f"**You:** {q}")
-    st.write(f"**Bot:** {a} 👍")
+    st.write(f"**ISROBot:** {a} 👍")
